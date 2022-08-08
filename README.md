@@ -65,7 +65,7 @@
  * It also provides official driver support for all the popular languages like C, C++, C#, and .Net, Go, Java, Node.js, Perl, PHP, Python, Motor, Ruby,      Scala, Swift, Mongoid.
  * ![image](https://user-images.githubusercontent.com/95225089/183375002-e7268c01-57da-4252-bd38-f56aaacdd3fb.png)
 
- ### Noe4j
+ ### Neo4j
  * Neo4j is a graph database. A graph database, instead of having rows and columns has nodes edges and properties.
  * It is more suitable for certain big data and analytics applications than row and column databases or free-form JSON document databases for many use      cases.
  * The circles are nodes. The lines, called edges, indicate relationships. And the any comments inside the circles are properties of that node.
@@ -86,3 +86,4 @@
 * [MongoDB](https://www.geeksforgeeks.org/what-is-mongodb-working-and-features/)
 * [Neo4j](https://www.bmc.com/blogs/neo4j-graph-database/)
 * [Riak](https://en.wikipedia.org/wiki/Riak)
+
